@@ -1,1 +1,5 @@
-
+.idea/
+.mvn/
+mvnw.cmd
+mvnw
+email-service.iml
