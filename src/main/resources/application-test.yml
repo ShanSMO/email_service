@@ -35,5 +35,4 @@ eureka:
     service-url:
       defaultZone: http://${HOST:localhost}:7100/eureka/
 
-  username: shanaka
 
